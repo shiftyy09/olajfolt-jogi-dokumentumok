@@ -1,32 +1,38 @@
-Felhasználási Feltételek (Terms of Use)
+# Felhasználási Feltételek (Terms of Use) - Olajfolt Alkalmazás
 
 **Hatálybalépés dátuma:** 2024. május 28.
 
-Kérjük, figyelmesen olvassa el az alábbi Felhasználási Feltételeket, mielőtt használná az **Olajfolt** alkalmazást (a továbbiakban: "Alkalmazás").
+Kérjük, figyelmesen olvassa el az alábbi Felhasználási Feltételeket, mielőtt használná az **Olajfolt** alkalmazást (a továbbiakban: "Alkalmazás"), amelyet **NJ-CREATIVE** (a továbbiakban: "Fejlesztő") készített.
 
-1. A Feltételek Elfogadása
+### 1. A Feltételek Elfogadása
 
-Az Alkalmazás letöltésével és használatával Ön elfogadja és magára nézve kötelezőnek ismeri el a jelen Felhasználási Feltételeket. Ha nem ért egyet a feltételekkel, kérjük, ne használja az Alkalmazást.
+Az Alkalmazás letöltésével, telepítésével és használatával Ön kifejezetten elfogadja és magára nézve kötelezőnek ismeri el a jelen Felhasználási Feltételeket. Ha nem ért egyet a feltételek bármely pontjával, kérjük, ne használja az Alkalmazást, és törölje azt az eszközéről.
 
-2. A Szolgáltatás Jellege
+### 2. A Szolgáltatás Jellege és Korlátai
 
-Az Alkalmazás egy járműkarbantartási napló, amely segít a felhasználóknak nyomon követni és kezelni járműveik szerviztörténetét és emlékeztetőit. Az Alkalmazás "ahogy van" ("as is") és "ahogy elérhető" ("as available") alapon működik.
+Az Alkalmazás egy személyes használatra szánt járműkarbantartási napló, amelynek célja, hogy segítse a felhasználókat járműveik szerviztörténetének, költségeinek és karbantartási emlékeztetőinek digitális nyomon követésében. 
 
-3. Felelősség Kizárása
+Az Alkalmazás "ahogy van" ("as is") és "ahogy elérhető" ("as available") alapon működik. A Fejlesztő nem garantálja az Alkalmazás folyamatos, hibamentes és megszakítás nélküli működését, és fenntartja a jogot, hogy az Alkalmazás funkcióit előzetes értesítés nélkül módosítsa vagy megszüntesse.
 
-*   **Adatok Pontossága:** Az Alkalmazásban tárolt adatok pontosságáért és teljességéért kizárólag a felhasználó felel. A Fejlesztő nem vállal felelősséget a hibásan rögzített adatokból eredő esetleges károkért vagy kellemetlenségekért.
-*   **Adatvesztés:** Minden adat az Ön eszközén tárolódik. A Fejlesztő nem felelős az adatok véletlen elvesztéséért, amely például az eszköz meghibásodásából vagy az alkalmazás törléséből adódhat. Javasoljuk a beépített exportálási funkció rendszeres használatát biztonsági mentés céljából.
-*   **Tájékoztató Jelleg:** Az Alkalmazás által küldött emlékeztetők és számított esedékességek kizárólag tájékoztató jellegűek. Ezek nem helyettesítik a jármű gyártói előírásait vagy a szakszervizek javaslatait. A karbantartások időben történő elvégzése a felhasználó felelőssége.
-*   **Károkozás:** A Fejlesztő a törvény által megengedett legteljesebb mértékben kizár minden felelősséget az Alkalmazás használatából vagy használhatatlanságából eredő bármilyen közvetlen vagy közvetett kárért.
+### 3. Felelősség Kizárása
 
-4. Szellemi Tulajdon
+*   **Adatok Pontossága és Felelősség:** Az Alkalmazásban rögzített minden adat (pl. kilométeróra-állás, dátumok, költségek) pontosságáért és teljességéért kizárólag a felhasználó felel. A Fejlesztő nem vállal felelősséget a pontatlanul vagy hibásan rögzített adatokból eredő esetleges károkért, veszteségekért vagy kellemetlenségekért.
+*   **Adatbiztonság és Adatvesztés:** Minden adat kizárólag a felhasználó saját eszközén tárolódik. A Fejlesztő nem fér hozzá az adatokhoz, így nem felelős az adatok véletlen vagy szándékos elvesztéséért, amely például az eszköz meghibásodásából, elvesztéséből vagy az alkalmazás törléséből adódhat. **Kifejezetten javasoljuk a beépített exportálási funkció (CSV és PDF) rendszeres használatát biztonsági mentés készítése céljából.**
+*   **Tájékoztató Jelleg:** Az Alkalmazás által küldött emlékeztetők, javasolt szervizintervallumok és számított esedékességek kizárólag tájékoztató és kényelmi jellegűek. Ezek az információk nem helyettesítik a jármű gyártója által előírt karbantartási ütemtervet, a hivatalos szervizkönyvet vagy a szakképzett autószerelők tanácsait. A karbantartások időben történő és szakszerű elvégzése minden esetben a felhasználó felelőssége.
+*   **Károkozás:** A Fejlesztő a törvény által megengedett legteljesebb mértékben kizár mindenféle felelősséget az Alkalmazás használatából, használhatatlanságából, vagy az általa nyújtott információkra való hagyatkozásból eredő bármilyen közvetlen, közvetett, véletlen vagy következményes kárért (beleértve, de nem kizárólagosan az elmaradt hasznot, üzleti veszteséget vagy a járműben keletkezett károkat).
 
-Az Alkalmazás, beleértve annak nevét, logóját, dizájnját, forráskódját és minden egyéb elemét, **NJ-CREATIVE** szellemi tulajdonát képezi. Az Alkalmazás tartalmának másolása, módosítása, terjesztése vagy visszafejtése tilos.
+### 4. Szellemi Tulajdon
 
-5. A Feltételek Módosítása
+Az Alkalmazás, beleértve annak nevét, logóját, grafikai elemeit, felhasználói felületét, forráskódját és minden egyéb összetevőjét, **NJ-CREATIVE** szellemi tulajdonát képezi, és szerzői jogi védelem alatt áll. Az Alkalmazás tartalmának vagy bármely részének másolása, módosítása, terjesztése, visszafejtése (reverse engineering) vagy kereskedelmi célú felhasználása a Fejlesztő előzetes írásbeli engedélye nélkül szigorúan tilos.
 
-A Fejlesztő fenntartja a jogot, hogy a jelen Felhasználási Feltételeket bármikor egyoldalúan módosítsa. Az Alkalmazás további használata a módosított feltételek elfogadását jelenti.
+### 5. A Feltételek Módosítása
 
-6. Kapcsolat
+A Fejlesztő fenntartja a jogot, hogy a jelen Felhasználási Feltételeket bármikor, egyoldalúan módosítsa, különösen az Alkalmazás funkcióinak bővülése vagy a jogszabályi környezet változása esetén. A módosítások az Alkalmazás frissítésével vagy egyéb, megfelelő módon közzétett értesítéssel lépnek hatályba. Az Alkalmazás további használata a módosított feltételek elfogadását jelenti.
 
-Ha kérdése van a Felhasználási Feltételekkel kapcsolatban, kérjük, lépjen kapcsolatba velünk az alábbi címen: **shiftyy09@gmail.com**
+### 6. Irányadó Jog és Jogviták
+
+A jelen Felhasználási Feltételekre a magyar jog az irányadó. A felek megkísérlik a felmerülő vitás kérdéseket békés úton rendezni. Amennyiben ez nem vezet eredményre, a jogviták eldöntésére a magyar bíróságok rendelkeznek hatáskörrel.
+
+### 7. Kapcsolat
+
+Ha kérdése vagy észrevétele van a Felhasználási Feltételekkel kapcsolatban, kérjük, lépjen kapcsolatba a Fejlesztővel az alábbi e-mail címen: **shiftyy09@gmail.com**
